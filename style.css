@@ -1,0 +1,98 @@
+#main{
+    background-color: rgb(38, 201, 166);
+    margin-top: 10px;
+    padding:10px;
+    font-size: larger; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    
+    }
+          li{
+        list-style: none;
+        display:inline;
+        padding: 50px;   
+    }
+       li a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+       }
+   ul li :hover{
+    background-color: white;
+   color: blue;
+   transition: 0.6s ease;
+   }
+   .heading{
+    margin-top: 50px;   
+    
+   }
+   .heading h2{ 
+    
+    text-transform: capitalize;
+    margin-left: 100px;
+
+   }
+  .list{
+    margin: 0;
+    padding: 0;
+    
+   
+    
+  }
+  .list li{
+    display: none;
+    display: block;
+    
+    padding: 0px;
+    text-transform: capitalize;
+    list-style: none;
+    list-style-type: lower-roman;
+   font-size: larger;
+   margin-left: 30px;
+  
+   }
+      
+   #bottom{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    background-color: brown;
+    padding:50px;
+      }
+  #bottom footer{
+       padding-right: 20px;
+    list-style: none;
+    display: block;
+    text-align: center;
+    background-color: white;
+ border-radius: 30px;
+ font-size: larger;
+      }
+  #para{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40px;
+    }
+   
+        #para-2{
+      font-size: large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-left: 40px;
+    }
+    ul li {
+      font-weight: bolder;
+    }
+    ion-icon {
+      font-size: 64px;
+      padding: 10px;
+      padding-left: 50px;
+    }
+    #lodez{
+            font-style: italic;
+      font-size: larger;
+      margin-left: 100px;
+     margin-top: 70px;
+     font-weight: 300;
+     font-size: 20px;
+ 
+    }
